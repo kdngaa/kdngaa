@@ -4,7 +4,7 @@
 ## Software Engineer
 
 - 🔭 I’m currently working on improving my current full-stack projects
-- 🌱 I’m currently improving my understanding of Javascript
+- 🌱 I’m currently improving my knowledge of Javascript and Python
 - 👯 I’m looking to collaborate on any interesting full-stack projects
 - 📫 How to reach me: devkdng@gmail.com
 - ⚡ Fun fact: I love programming and multiplayer video games
