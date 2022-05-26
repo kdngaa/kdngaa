@@ -1,8 +1,6 @@
 ### Hi there 👋 My name is Khoi Duong
 
 
-**This is an overview of my profile**
-
 ## Software Engineer
 
 - 🔭 I’m currently working on improving my current full-stack projects
